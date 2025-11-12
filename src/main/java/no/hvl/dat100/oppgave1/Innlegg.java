@@ -93,3 +93,4 @@ public abstract class Innlegg {
 		throw new UnsupportedOperationException(TODO.method());
 				
 	}
+}
